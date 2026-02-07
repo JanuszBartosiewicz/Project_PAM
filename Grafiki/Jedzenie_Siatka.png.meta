@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: e297f0fdc36378044a4756d2c2a748ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7735040932216132055
+    second: Jedzenie_Siatka_0
+  - first:
+      213: 6908305342505912483
+    second: Jedzenie_Siatka_1
+  - first:
+      213: -3292158584415229727
+    second: Jedzenie_Siatka_2
+  - first:
+      213: 3475426079625167141
+    second: Jedzenie_Siatka_3
+  - first:
+      213: -8761197640409576157
+    second: Jedzenie_Siatka_4
+  - first:
+      213: 8179217774006480314
+    second: Jedzenie_Siatka_5
+  - first:
+      213: -1106517882999821561
+    second: Jedzenie_Siatka_6
+  - first:
+      213: 7324930006037088177
+    second: Jedzenie_Siatka_7
+  - first:
+      213: 9066345303166068526
+    second: Jedzenie_Siatka_8
+  - first:
+      213: -3578249487967349796
+    second: Jedzenie_Siatka_9
+  - first:
+      213: -5953267178008170067
+    second: Jedzenie_Siatka_10
+  - first:
+      213: 6258075634584287801
+    second: Jedzenie_Siatka_11
+  - first:
+      213: 5841392227760547873
+    second: Jedzenie_Siatka_12
+  - first:
+      213: 5617824761976373058
+    second: Jedzenie_Siatka_13
+  - first:
+      213: -632535359130678854
+    second: Jedzenie_Siatka_14
+  - first:
+      213: 3563221714766427590
+    second: Jedzenie_Siatka_15
+  - first:
+      213: -2019975771983672348
+    second: Jedzenie_Siatka_16
+  - first:
+      213: 349711907184188844
+    second: Jedzenie_Siatka_17
+  - first:
+      213: -4316750429668323123
+    second: Jedzenie_Siatka_18
+  - first:
+      213: 567914347534256196
+    second: Jedzenie_Siatka_19
+  - first:
+      213: -7479707239191772482
+    second: Jedzenie_Siatka_20
+  - first:
+      213: 9134402004915520221
+    second: Jedzenie_Siatka_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 307
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d159dfeeb2685b60800000000000000
+      internalID: 7735040932216132055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 410
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a88ff37b1b3fdf50800000000000000
+      internalID: 6908305342505912483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 410
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86da7c537ef42d0800000000000000
+      internalID: -3292158584415229727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 307
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521cf271b913b3030800000000000000
+      internalID: 3475426079625167141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d85643a29f96680800000000000000
+      internalID: -8761197640409576157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 307
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda738ea3b628170800000000000000
+      internalID: 8179217774006480314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 411
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bad2619dbd4a0f0800000000000000
+      internalID: -1106517882999821561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 307
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c076080167a560800000000000000
+      internalID: 7324930006037088177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 410
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ae36840122dd70800000000000000
+      internalID: 9066345303166068526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 310
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd39bff8c01875ec0800000000000000
+      internalID: -3578249487967349796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b4d91b0fb16da0800000000000000
+      internalID: -5953267178008170067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 205
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7ce802a629d650800000000000000
+      internalID: 6258075634584287801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 204
+        width: 84
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1282569384bc01150800000000000000
+      internalID: 5841392227760547873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 204
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fbef34bd586fd40800000000000000
+      internalID: 5617824761976373058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 204
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab944233178c837f0800000000000000
+      internalID: -632535359130678854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57c94554b137130800000000000000
+      internalID: 3563221714766427590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8408dcba97f3e0800000000000000
+      internalID: -2019975771983672348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1071702d6ad400800000000000000
+      internalID: 349711907184188844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 101
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0da97fa52d714c0800000000000000
+      internalID: -4316750429668323123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 101
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44880a31713a1e700800000000000000
+      internalID: 567914347534256196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb28e0825edb23890800000000000000
+      internalID: -7479707239191772482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jedzenie_Siatka_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd20b923a3ae3ce70800000000000000
+      internalID: 9134402004915520221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jedzenie_Siatka_0: 7735040932216132055
+      Jedzenie_Siatka_1: 6908305342505912483
+      Jedzenie_Siatka_10: -5953267178008170067
+      Jedzenie_Siatka_11: 6258075634584287801
+      Jedzenie_Siatka_12: 5841392227760547873
+      Jedzenie_Siatka_13: 5617824761976373058
+      Jedzenie_Siatka_14: -632535359130678854
+      Jedzenie_Siatka_15: 3563221714766427590
+      Jedzenie_Siatka_16: -2019975771983672348
+      Jedzenie_Siatka_17: 349711907184188844
+      Jedzenie_Siatka_18: -4316750429668323123
+      Jedzenie_Siatka_19: 567914347534256196
+      Jedzenie_Siatka_2: -3292158584415229727
+      Jedzenie_Siatka_20: -7479707239191772482
+      Jedzenie_Siatka_21: 9134402004915520221
+      Jedzenie_Siatka_3: 3475426079625167141
+      Jedzenie_Siatka_4: -8761197640409576157
+      Jedzenie_Siatka_5: 8179217774006480314
+      Jedzenie_Siatka_6: -1106517882999821561
+      Jedzenie_Siatka_7: 7324930006037088177
+      Jedzenie_Siatka_8: 9066345303166068526
+      Jedzenie_Siatka_9: -3578249487967349796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
